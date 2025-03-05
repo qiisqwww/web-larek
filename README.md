@@ -16,6 +16,7 @@
 - src/utils/utils.ts — файл с утилитами
 
 ## UML диаграмма
+![image](https://github.com/user-attachments/assets/f941f604-5072-41bd-a318-ddd973b93b23)
 
 
 ## Установка и запуск
