@@ -1,0 +1,3 @@
+interface IModalData {
+	content: HTMLElement;
+}
